@@ -43,7 +43,7 @@ a:hover {
 .nav .name {
     display: block;
     margin-right: auto;
-    color: white;
+    color: #bada55;
 }
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -52,7 +52,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white
+  color: #bada55
 }
 
 header {
@@ -74,7 +74,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 25%;
-  border: 5px solid turquoise;
+  border: 5px solid #bada55;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -103,7 +103,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #bada55;
 }
 
 ul.skills {
